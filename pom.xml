@@ -18,7 +18,7 @@
           <configuration>
 			 <suiteXmlFiles>
 				 <suiteXmlFile>MinimumquantitysetTest.xml</suiteXmlFile>
-				 <suiteXmlFile>ProductComparisonTestTest.xml</suiteXmlFile>
+				
 				 <!-- <suiteXmlFile>contactnumber.xml</suiteXmlFile>-->
 				 <!--if you want to run one more xml file just put one more tag LIKE THIS  <suiteXmlFile>LoginTestNG.XML.xml</suiteXmlFile> in below line-->
 			    <!--  <suiteXmlFile>LoginTestNG.XML.xml</suiteXmlFile>-->
